@@ -8,14 +8,14 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
+  <!-- <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
-  <img width="12"/>
+  <img width="12"/> -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
@@ -111,7 +111,8 @@
 ## 🛠 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,python,java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,graphql,go,rust,nestjs,aws" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,aws" height="40"/>
+  <!-- ,graphql,go,rust,nestjs -->
 </p>
 
 ---
