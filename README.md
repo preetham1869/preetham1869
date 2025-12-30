@@ -1,6 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Preetham Velamala</h1>
 
+<p align="center">
+  <img src="./ChatGPT%20Image%20Dec%2030,%202025,%2006_27_25%20PM.png" alt="Header Image" width="300"/>
+</p>
+
 <h3 align="center">
   Frontend Developer • React Learner • Problem Solver
 </h3>
@@ -12,6 +16,7 @@
 <p align="center">
   A passionate Frontend Developer focused on building responsive, user-friendly web applications.
 </p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
   <img width="12"/>
@@ -19,25 +24,12 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
   <img width="12"/>
-  <!-- <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS" />
-  <img width="12"/> -->
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
 </div>
 
-
-
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=preetham1869&label=Profile%20views&color=0e75b6&style=flat)
-
----
+![Profile Views](https://komarev.com/ghpvc/?username=preetham1869&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 <ul>
