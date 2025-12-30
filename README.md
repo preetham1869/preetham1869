@@ -48,12 +48,6 @@
   <a href="https://preetham1869.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/preetham1869/react-todo-app">
-    <img src="https://img.shields.io/badge/React-Todo_App-brightgreen?style=for-the-badge&logo=react" alt="React Todo App"/>
-  </a>
-  <a href="https://github.com/preetham1869/ecommerce-ui">
-    <img src="https://img.shields.io/badge/E-commerce_UI-orange?style=for-the-badge&logo=shopify" alt="E-commerce UI"/>
-  </a>
 </p>
 
 ---
