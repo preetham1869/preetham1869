@@ -112,9 +112,10 @@
 
 ---
 
-## 🔥 GitHub Streak 
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=preetham1869)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preetham1869&hide_border=true)
+
 
 ---
 
