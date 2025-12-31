@@ -111,9 +111,7 @@
 ---
 
 ## 🔥 GitHub Streak 
- ![GitHub Streak](https://streak-stats.demolab.com?user=preetham1869)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=preetham1869)
 
 ⭐ Star my repositories if you like them!  
 
