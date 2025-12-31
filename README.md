@@ -65,7 +65,7 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-240%2B-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   <img src="https://img.shields.io/badge/CodeChef-2⭐-brightgreen?style=for-the-badge&logo=codechef" alt="CodeChef"/>
   <img src="https://img.shields.io/badge/GeeksforGeeks-2⭐-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG"/>
 </p>
