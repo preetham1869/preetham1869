@@ -74,24 +74,26 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/preetham-velamala">
+  <a href="https://www.linkedin.com/in/preetham-velamala/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" alt="Twitter"/>
+  <a href="https://x.com/Preetham_054">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&color=1DA1F2&style=for-the-badge" alt="X"/>
   </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" alt="Discord"/>
+  <a href="https://www.instagram.com/btw_itz__preetham/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E1306C&style=for-the-badge" alt="Instagram"/>
   </a>
-  <a href="https://twitch.tv/">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&style=for-the-badge" alt="Twitch"/>
+  <a href="https://github.com/preetham1869">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" alt="GitHub"/>
   </a>
-  <a href="https://dev.to/">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge" alt="dev.to"/>
+  <a href="https://leetcode.com/u/preetham054/">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&style=for-the-badge" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/preetham_v054">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=333333&style=for-the-badge" alt="CodeChef"/>
   </a>
 </p>
 
----
 
 ## 🛠 Languages & Tools
 <p align="center">
