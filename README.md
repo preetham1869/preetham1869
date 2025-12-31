@@ -112,13 +112,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=preetham1869&hide_border=true)
-
-
----
-
 ⭐ Star my repositories if you like them!  
 
 📫 Reach out to me for collaboration, mentorship, or just a friendly chat!
