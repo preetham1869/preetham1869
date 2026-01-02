@@ -104,14 +104,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preetham1869&theme=github" alt="GitHub Stats"/>
-</p>
-
----
-
 ⭐ Star my repositories if you like them!  
 
 📫 Reach out to me for collaboration, mentorship, or just a friendly chat!
