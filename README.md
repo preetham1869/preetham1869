@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  💻 Building responsive UIs • 🚀 Learning Full Stack • 🎯 Problem Solver
+  💻 Building responsive UIs • 🚀 Learning Full Stack Dev • 🎯 Problem Solver
 </p>
 
 <p align="center">
