@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://preetham1869.github.io/Portfolio/">
+  <a href="preetham054.me">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
   </a>
 </p>
