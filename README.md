@@ -197,15 +197,17 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=preetham1869&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&icon_color=F5F5F5"
+    src="https://github-readme-stats.vercel.app/api?username=preetham1869&show_icons=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&icon_color=F5F5F5&hide_border=true"
     alt="GitHub Stats"
-    height="180"
+    width="495"
   />
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetham1869&layout=compact&hide_border=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetham1869&layout=compact&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&hide_border=true"
     alt="Top Languages"
-    height="180"
+    width="495"
   />
 </p>
 
@@ -215,12 +217,14 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=preetham1869&hide_border=true&background=050505&ring=F5F5F5&fire=F5F5F5&currStreakLabel=F5F5F5&sideLabels=D6D9DC&currStreakNum=F5F5F5&sideNums=C7CBD1&dates=8F949B"
+    src="https://streak-stats.demolab.com/?user=preetham1869&background=050505&ring=F5F5F5&fire=F5F5F5&currStreakLabel=F5F5F5&sideLabels=D6D9DC&currStreakNum=F5F5F5&sideNums=C7CBD1&dates=8F949B&hide_border=true"
     alt="GitHub Contribution Streak"
+    width="495"
   />
 </p>
 
 ---
+
 ## 🤝 Connect With Me
 
 <p align="center">
