@@ -27,13 +27,12 @@
 
 ## 👨‍💻 About Me
 
-```python
 class Developer:
     def __init__(self):
         self.name = "Preetham Velamala"
         self.github = "preetham1869"
         self.roles = ["Frontend Developer", "React Learner", "Problem Solver"]
-        self.location = "India 🇮🇳"
+        self.location = "India"
         self.education = "B.Tech Computer Science"
 
     def tech_stack(self):
@@ -51,10 +50,7 @@ class Developer:
             "🧩 424+ problems solved on LeetCode",
             "⚡ Debugging with coffee ☕",
         ]
-```
-
----
-
+        
 ## 🔥 Streak Stats
 
 <p align="center">
