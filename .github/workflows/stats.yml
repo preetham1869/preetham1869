@@ -1,12 +1,16 @@
-name: Update GitHub Stats
+name: Update GitHub Contribution Streak
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+concurrency:
+  group: profile-updates
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -18,27 +22,35 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: stats
-          options: username=preetham1869&show_icons=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&icon_color=F5F5F5&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-      - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Generate Contribution Streak
+        uses: zients/github-readme-streak-stats@v2
         with:
-          card: top-langs
-          options: username=preetham1869&layout=compact&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&hide_border=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          username: preetham1869
+          output_path: github-streak-stats.svg
+          background: "050505"
+          ring: "F5F5F5"
+          fire: "F5F5F5"
+          curr_streak_label: "F5F5F5"
+          side_labels: "D6D9DC"
+          curr_streak_num: "F5F5F5"
+          side_nums: "C7CBD1"
+          dates: "8F949B"
+          hide_border: true
+          disable_animations: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated cards
+      - name: Commit generated streak
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update GitHub stats" || exit 0
-          git push
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add github-streak-stats.svg
+
+          git commit -m "Update Streak Stats [skip ci]" || exit 0
+
+          git pull --rebase origin main
+          git push origin main
