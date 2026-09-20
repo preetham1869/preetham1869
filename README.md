@@ -28,42 +28,25 @@
 
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-<pre><code><span style="color: #ff7b72;">class</span> <span style="color: #f0883e;">Developer</span> {
-    String name = <span style="color: #a5d6ff;">"Preetham Velamala"</span>;
-    String education = <span style="color: #a5d6ff;">"B.Tech Computer Science"</span>;
-    String location = <span style="color: #a5d6ff;">"India 🇮🇳"</span>;
+<p align="center">
+  <img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
+</p>
+
+```java
+class Developer {
+    String name = "Preetham Velamala";
+    String education = "B.Tech Computer Science";
+    String location = "India 🇮🇳";
 
     String[] roles = {
-        <span style="color: #a5d6ff;">"Full-Stack Developer"</span>,
-        <span style="color: #a5d6ff;">"Software Engineer"</span>,
-        <span style="color: #a5d6ff;">"Problem Solver"</span>
+        "Full-Stack Developer",
+        "Software Engineer",
+        "Problem Solver"
     };
 
     String[] interests = {
-        <span style="color: #a5d6ff;">"Web Development"</span>,
-        <span style="color: #a5d6ff;">"Backend Development"</span>,
-        <span style="color: #a5d6ff;">"Artificial Intelligence"</span>,
-        <span style="color: #a5d6ff;">"Machine Learning"</span>,
-        <span style="color: #a5d6ff;">"Data Structures & Algorithms"</span>
-    };
-
-    String[] currentFocus = {
-        <span style="color: #a5d6ff;">"Building scalable web applications"</span>,
-        <span style="color: #a5d6ff;">"Improving Java & backend development"</span>,
-        <span style="color: #a5d6ff;">"Learning modern full-stack technologies"</span>,
-        <span style="color: #a5d6ff;">"Solving DSA problems"</span>,
-        <span style="color: #a5d6ff;">"Building real-world software projects"</span>
-    };
-}</code></pre>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img width="100%" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)" alt="Coding animation"/>
-    </td>
-  </tr>
-</table>
+        "Web Development",
+        "Backend Development",
         "Artificial Intelligence",
         "Machine Learning",
         "Data Structures & Algorithms"
