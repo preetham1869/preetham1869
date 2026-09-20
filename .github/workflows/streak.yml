@@ -1,35 +1,46 @@
-name: Generate Streak Stats
+name: Update GitHub Contribution Streak
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
+concurrency:
+  group: streak-update
+  cancel-in-progress: false
+
 jobs:
-  update-streak:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      - name: Fetch Streak Stats
-        run: |
-          curl -fL --retry 3 --retry-delay 5 \
-            "https://streak-stats.demolab.com?user=preetham1869&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" \
-            -o github-streak-stats.svg
+      - name: Generate streak stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=preetham1869&background=050505&ring=F5F5F5&fire=F5F5F5&currStreakNum=F5F5F5&sideNums=C7CBD1&currStreakLabel=F5F5F5&sideLabels=D6D9DC&dates=8F949B&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push
+      - name: Commit streak stats
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add github-streak-stats.svg
-          if git diff --staged --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Update Streak Stats [skip ci]"
-            git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak.svg
+
+          if git diff --cached --quiet -- profile/streak.svg; then
+            echo "No streak SVG changes to commit."
+            exit 0
           fi
+
+          git commit -m "Update contribution streak"
+          git push
