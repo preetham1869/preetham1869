@@ -171,19 +171,19 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 
 ---
 
-## 🕹️ Pac-Man Eats My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
-</p>
-
----
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
+---
+
+## 👾 Contribution Pac-Man
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg" alt="GitHub Contribution Pac-Man"/>
+</p>
 
 ## 📊 GitHub Stats
 
