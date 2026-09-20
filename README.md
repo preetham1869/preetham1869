@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Your%20Name&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Preethaam%20Velamala&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
 <p align="center">
   <a href="https://github.com/YOURUSERNAME">
