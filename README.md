@@ -4,19 +4,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Preetham%20Velamala&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
-<!-- ========================================================= -->
-<!--                    ANIMATED TYPING                        -->
-<!-- ========================================================= -->
-
 <p align="center">
   <a href="https://github.com/preetham1869">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%9A%80+Building+Responsive+%26+Scalable+Web+Applications;%F0%9F%92%BB+Java+%7C+JavaScript+%7C+Python+%7C+React;%F0%9F%A4%96+Exploring+AI%2FML+%26+Full-Stack+Development;%F0%9F%A7%A0+Solving+DSA+%26+Building+Real-World+Projects" alt="Typing SVG"/>
   </a>
 </p>
-
-<!-- ========================================================= -->
-<!--                    SOCIAL BADGES                          -->
-<!-- ========================================================= -->
 
 <p align="center">
 
