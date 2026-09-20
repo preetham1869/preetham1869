@@ -1,21 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Preetham%20Velamala&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Preetham%20Velamala&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20Learner%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
+<!-- ANIMATED TYPING -->
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Building+Scalable+Apps+%26+AI+Systems;%F0%9F%92%A1+Turning+Ideas+Into+Production-Ready+Code;%E2%9A%A1+Python+%7C+React+%7C+Full-Stack+%7C+Docker" alt="Typing SVG"/>
+  <a href="https://github.com/preetham1869">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%92%BB+Building+Responsive+User+Interfaces;%F0%9F%9A%80+Learning+Full+Stack+Development;%E2%9A%A1+React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG"/>
   </a>
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOURUSERNAME-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+  <a href="https://github.com/preetham1869">
+    <img src="https://img.shields.io/badge/GitHub-preetham1869-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:you@example.com">
+  <a href="mailto:preetham.v054@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=preetham1869&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
 </p>
@@ -27,23 +30,25 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
-        self.roles = ["Full-Stack Architect", "AI Engineer"]
+        self.name = "Preetham Velamala"
+        self.github = "preetham1869"
+        self.roles = ["Frontend Developer", "React Learner", "Problem Solver"]
         self.location = "India 🇮🇳"
         self.education = "B.Tech Computer Science"
 
     def tech_stack(self):
         return {
-            "frontend": ["React", "Next.js", "JavaScript", "HTML/CSS"],
-            "backend": ["Python", "FastAPI", "PostgreSQL", "Supabase"],
-            "cloud_ai": ["Docker", "Git", "Gemini API", "Linux"],
+            "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+            "backend": ["Node.js", "Python", "MongoDB"],
+            "tools": ["Git", "Docker", "AWS", "Linux"],
         }
 
     def current_focus(self):
         return [
-            "🚀 Building impactful software & AI workflows",
-            "🌱 Expanding distributed systems knowledge",
-            "👯 Open source collaborations & hackathons",
+            "🔭 Building a web project",
+            "🌱 Learning React & Redux",
+            "👯 Open to collaborating with MNCs",
+            "🧩 424+ problems solved on LeetCode",
             "⚡ Debugging with coffee ☕",
         ]
 ```
@@ -53,38 +58,84 @@ class Developer:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
 </p>
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,fastapi,postgres,mysql,supabase,docker,git,github,linux&perline=8" alt="Technology stack"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,react,nextjs,redux,nodejs,html,css,tailwind,mongodb,git,github,docker,aws,linux&perline=9" alt="Technology stack"/>
+</p>
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-424%2B%20Solved-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27" alt="LeetCode"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CodeChef-3%20Star-ff6b35?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0e27" alt="CodeChef"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2%20Star-00ff88?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0a0e27" alt="GeeksforGeeks"/>
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://preetham054.me">
+    <img src="https://img.shields.io/badge/Portfolio-preetham054.me-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0e27" alt="Portfolio"/>
+  </a>
 </p>
 
 ## 🕹️ Pac-Man Eats My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-snake.svg" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/github-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/github-stats.svg" alt="GitHub Statistics"/>
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/github-stats.svg" alt="GitHub Statistics"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/main/top-languages.svg" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/top-languages.svg" alt="Top Languages"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetham-velamala/">
+    <img src="https://img.shields.io/badge/LinkedIn-Preetham%20Velamala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Preetham_054">
+    <img src="https://img.shields.io/badge/X-Preetham__054-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0e27" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/btw_itz__preetham/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0e27" alt="Instagram"/>
+  </a>
+  <br/>
+  <a href="https://leetcode.com/u/preetham054/">
+    <img src="https://img.shields.io/badge/LeetCode-preetham054-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0e27" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/preetham_v054">
+    <img src="https://img.shields.io/badge/CodeChef-preetham__v054-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0e27" alt="CodeChef"/>
+  </a>
+  &nbsp;
+  <a href="mailto:preetham.v054@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-preetham.v054-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Gmail"/>
+  </a>
 </p>
 
 ## 🌟 Mission Statement
 
-Build useful software, explore emerging technologies, contribute to open source, and turn ambitious ideas into reliable production systems.
+Build useful software, keep learning in public, contribute to open source, and turn ambitious ideas into reliable production systems.
 
 ## 💬 Random Dev Quote
 
@@ -92,12 +143,10 @@ Build useful software, explore emerging technologies, contribute to open source,
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
 </p>
 
-## ⚡ Open to Internships, Collaborations & Research
+---
 
 <p align="center">
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Contact-you@example.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Contact"/>
-  </a>
+  ⭐ Star my repositories if you find them useful — and reach out for collaboration, mentorship, or a friendly chat!
 </p>
 
 <p align="center">
