@@ -146,23 +146,17 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 ## 🧩 Coding Profiles
 
 <p align="center">
-
   <a href="https://leetcode.com/u/preetham054/">
-    <img src="https://img.shields.io/badge/LeetCode-preetham054-F5F5F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080808" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LEETCODE-PREETHAM054-F5F5F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080808" alt="LeetCode"/>
   </a>
-
   &nbsp;
-
   <a href="https://www.codechef.com/users/preetham_v054">
-    <img src="https://img.shields.io/badge/CodeChef-preetham__v054-C7CBD1?style=for-the-badge&logo=codechef&logoColor=white&labelColor=080808" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CODECHEF-PREETHAM__V054-C7CBD1?style=for-the-badge&logo=codechef&logoColor=white&labelColor=080808" alt="CodeChef"/>
   </a>
-
   &nbsp;
-
   <a href="https://github.com/preetham1869">
-    <img src="https://img.shields.io/badge/GitHub-preetham1869-E5E7EB?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-PREETHAM1869-E5E7EB?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" alt="GitHub"/>
   </a>
-
 </p>
 
 ---
@@ -196,35 +190,17 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 ## 🤝 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/preetham-velamala/">
     <img src="https://img.shields.io/badge/LinkedIn-Preetham%20Velamala-E5E7EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808" alt="LinkedIn"/>
   </a>
-
   &nbsp;
-
   <a href="https://www.instagram.com/btw_itz__preetham/">
     <img src="https://img.shields.io/badge/Instagram-Follow-D6D9DC?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080808" alt="Instagram"/>
   </a>
-
-  <br/>
-
-  <a href="https://leetcode.com/u/preetham054/">
-    <img src="https://img.shields.io/badge/LeetCode-preetham054-F5F5F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080808" alt="LeetCode"/>
-  </a>
-
   &nbsp;
-
-  <a href="https://www.codechef.com/users/preetham_v054">
-    <img src="https://img.shields.io/badge/CodeChef-preetham__v054-C7CBD1?style=for-the-badge&logo=codechef&logoColor=white&labelColor=080808" alt="CodeChef"/>
-  </a>
-
-  &nbsp;
-
   <a href="mailto:preetham.v054@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-preetham.v054-D6D9DC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808" alt="Gmail"/>
   </a>
-
 </p>
 
 ---
