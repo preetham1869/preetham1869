@@ -62,8 +62,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/github-stats.svg" alt="GitHub Statistics"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/top-languages.svg" alt="Top Languages"/>
-</p>
 
 ## 🤝 Connect With Me
 
