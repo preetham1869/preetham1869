@@ -4,38 +4,30 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  github-metrics:
+  stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: General Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Asia/Kolkata
-          config_display: large
-          config_output: svg
-          filename: github-stats.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Most Used Languages
-        uses: lowlighter/metrics@latest
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_colors: github
-          config_timezone: Asia/Kolkata
-          config_output: svg
-          filename: top-languages.svg
+          USERNAME: preetham1869
+          SHOW_ICONS: true
+          INCLUDE_ALL_COMMITS: true
+          COUNT_PRIVATE: false
+          BG_COLOR: 050505
+          TITLE_COLOR: F5F5F5
+          TEXT_COLOR: D6D9DC
+          ICON_COLOR: F5F5F5
+          HIDE_BORDER: true
