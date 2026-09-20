@@ -92,8 +92,6 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
   </a>
 </p>
 
----
-
 ### 💰 Budget Buddy — Expense Tracking Web Application
 
 **HTML • CSS • JavaScript**
@@ -174,7 +172,11 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
@@ -182,8 +184,42 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 ## 👾 Contribution Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg" alt="GitHub Contribution Pac-Man"/>
+  <img
+    src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg"
+    alt="GitHub Contribution Pac-Man"
+    width="100%"
+  />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=preetham1869&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&icon_color=F5F5F5"
+    alt="GitHub Stats"
+    height="180"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetham1869&layout=compact&hide_border=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=preetham1869&hide_border=true&background=050505&ring=F5F5F5&fire=F5F5F5&currStreakLabel=F5F5F5&sideLabels=D6D9DC&currStreakNum=F5F5F5&sideNums=C7CBD1&dates=8F949B"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 ---
 
 ## 🤝 Connect With Me
@@ -213,7 +249,10 @@ Build useful software, keep learning in public, contribute to open source, and t
 ## 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random developer quote"
+  />
 </p>
 
 ---
@@ -223,5 +262,8 @@ Build useful software, keep learning in public, contribute to open source, and t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F949B,50:30343B,100:050505&height=100&section=footer" alt="Footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8F949B,50:30343B,100:050505&height=100&section=footer"
+    alt="Footer"
+  />
 </p>
