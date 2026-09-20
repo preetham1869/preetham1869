@@ -28,7 +28,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 ```java
 class Developer {
