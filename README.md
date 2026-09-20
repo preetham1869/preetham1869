@@ -178,6 +178,12 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
 
 ## 📊 GitHub Stats
 
