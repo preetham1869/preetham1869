@@ -14,16 +14,13 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Pacman contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman contribution graph
+        uses: DuyetBKU/viz-pacman-github-profile@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: "pacman"
+          github_user_name: preetham1869
+          theme: github-dark
 
-      - name: List generated files
-        run: ls -la dist/
-
-      - name: Push SVGs to output branch
+      - name: Push Pacman SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
