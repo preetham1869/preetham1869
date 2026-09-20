@@ -25,37 +25,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-class Developer:
-    def __init__(self):
-        self.name = "Preetham Velamala"
-        self.github = "preetham1869"
-        self.roles = ["Frontend Developer", "React Learner", "Problem Solver"]
-        self.location = "India"
-        self.education = "B.Tech Computer Science"
-
-    def tech_stack(self):
-        return {
-            "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-            "backend": ["Node.js", "Python", "MongoDB"],
-            "tools": ["Git", "Docker", "AWS", "Linux"],
-        }
-
-    def current_focus(self):
-        return [
-            "🔭 Building a web project",
-            "🌱 Learning React & Redux",
-            "👯 Open to collaborating with MNCs",
-            "🧩 424+ problems solved on LeetCode",
-            "⚡ Debugging with coffee ☕",
-        ]
-        
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
-</p>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -87,11 +56,6 @@ class Developer:
   <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/github-snake.svg" alt="GitHub contribution snake"/>
-</p>
 
 ## 📊 GitHub Stats
 
