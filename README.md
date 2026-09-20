@@ -11,25 +11,17 @@
 </p>
 
 <p align="center">
-
   <a href="https://github.com/preetham1869">
     <img src="https://img.shields.io/badge/GitHub-preetham1869-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
   </a>
-
   &nbsp;
-
   <a href="mailto:preetham.v054@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/>
   </a>
-
   &nbsp;
-
   <img src="https://komarev.com/ghpvc/?username=preetham1869&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
-
   &nbsp;
-
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
-
 </p>
 
 ---
@@ -40,11 +32,8 @@
 
 ```java
 class Developer {
-
     String name = "Preetham Velamala";
-
     String education = "B.Tech Computer Science";
-
     String location = "India 🇮🇳";
 
     String[] roles = {
