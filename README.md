@@ -1,7 +1,6 @@
-<!-- ========================================================= -->
-<!--                        HEADER                             -->
-<!-- ========================================================= -->
+Here is the complete, formatted `README.md` code. Copy the entire block below and paste it directly into your `preetham1869/README.md` file:
 
+```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Preetham%20Velamala&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
 <p align="center">
@@ -60,3 +59,62 @@ class Developer {
         "Building real-world software projects"
     };
 }
+
+```
+
+---
+
+## 🧠 What I'm Working On
+
+* 🔭 Building full-stack web applications
+* 🌱 Improving my skills in React, Node.js & backend development
+* 💻 Strengthening Java, DSA, OOP & problem solving
+* 🤖 Exploring AI/ML and practical software applications
+* 🚀 Interested in building scalable and production-ready systems
+* 🤝 Open to internships, collaborations and software development opportunities
+
+---
+
+## 🚀 Featured Projects
+
+### 💼 JobLens — AI-Powered Campus Placement Management System
+
+*`React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Axios*`
+
+A full-stack campus placement platform designed for students, recruiters, and administrators.
+
+* 🔐 JWT-based authentication and protected routes
+* 👥 Role-based access for Students, Recruiters, and Admins
+* 📊 Multiple dashboards and responsive components
+* 🔌 REST API based backend architecture
+* 🤖 AI chatbot integration
+* 🛡️ Job authenticity / fake job detection functionality
+
+🔗 **Repository:** [https://github.com/Spjak231/Joblens](https://github.com/Spjak231/Joblens?utm_source=gemini)
+
+### 💰 Budget Buddy — Expense Tracking Web Application
+
+*`HTML` • `CSS` • `JavaScript*`
+
+A clean web application for tracking and managing personal daily expenses.
+
+* 📊 Real-time expense tracking and budget calculations
+* 💾 Client-side data persistence
+* 📱 Responsive user interface
+* ⚡ Interactive JavaScript functionality
+
+🔗 **Repository:** [https://github.com/Spjak231/iShip-1](https://github.com/Spjak231/iShip-1?utm_source=gemini)
+
+### 🎓 Student Management System
+
+*`Java` • `OOP` • `Data Structures*`
+
+A console-based software application designed to handle academic records, student enrollments, and performance tracking.
+
+* 📂 Complete CRUD operations for student records
+* 🔍 Search, sort, and filter operations using core DSA
+* ⚙️ Object-Oriented Architecture designed for maintainability
+
+```
+
+```
