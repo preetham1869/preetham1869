@@ -72,10 +72,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Preetham%20Velamala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://x.com/Preetham_054">
-    <img src="https://img.shields.io/badge/X-Preetham__054-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0e27" alt="X"/>
-  </a>
-  &nbsp;
   <a href="https://www.instagram.com/btw_itz__preetham/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0e27" alt="Instagram"/>
   </a>
