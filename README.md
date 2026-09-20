@@ -196,22 +196,8 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=preetham1869&show_icons=true&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&icon_color=F5F5F5&hide_border=true"
-    alt="GitHub Stats"
-    width="495"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetham1869&layout=compact&bg_color=050505&title_color=F5F5F5&text_color=D6D9DC&hide_border=true"
-    alt="Top Languages"
-    width="495"
-  />
-</p>
-
----
+  <img src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/github-stats.svg" alt="GitHub Statistics"/>
+  <br/>
 
 ## 🔥 GitHub Contribution Streak
 
