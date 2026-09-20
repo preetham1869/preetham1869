@@ -25,8 +25,10 @@ jobs:
           theme: github-dark
           music: "false"
 
-      - name: List generated files
-        run: ls -la dist/
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          find dist -maxdepth 2 -type f -print
 
       - name: Push Pacman SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
