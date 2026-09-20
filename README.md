@@ -217,14 +217,13 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=preetham1869&background=050505&ring=F5F5F5&fire=F5F5F5&currStreakLabel=F5F5F5&sideLabels=D6D9DC&currStreakNum=F5F5F5&sideNums=C7CBD1&dates=8F949B&hide_border=true"
+    src="https://raw.githubusercontent.com/preetham1869/preetham1869/main/profile/streak.svg"
     alt="GitHub Contribution Streak"
     width="495"
   />
 </p>
 
 ---
-
 ## 🤝 Connect With Me
 
 <p align="center">
