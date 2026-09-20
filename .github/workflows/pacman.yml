@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -18,13 +21,17 @@ jobs:
         uses: DuyetBKU/viz-pacman-github-profile@main
         with:
           github_user_name: preetham1869
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           theme: github-dark
+          music: "false"
+
+      - name: List generated files
+        run: ls -la dist/
 
       - name: Push Pacman SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          build_dir: dist
           target_branch: output
-          keep_history: true
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
