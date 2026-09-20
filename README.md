@@ -185,7 +185,7 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/preetham1869/preetham1869/output/dist/pacman-contribution-graph-dark.svg"
     alt="GitHub Contribution Pac-Man"
     width="100%"
   />
