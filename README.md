@@ -1,109 +1,79 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Preetham Velamala</h1>
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Preetham%20Velamala&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+
+<!-- ========================================================= -->
+<!--                    ANIMATED TYPING                        -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="./ChatGPT%20Image%20Dec%2030,%202025,%2006_27_25%20PM.png" alt="Header Image" width="300"/>
+  <a href="https://github.com/preetham1869">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%9A%80+Building+Responsive+%26+Scalable+Web+Applications;%F0%9F%92%BB+Java+%7C+JavaScript+%7C+Python+%7C+React;%F0%9F%A4%96+Exploring+AI%2FML+%26+Full-Stack+Development;%F0%9F%A7%A0+Solving+DSA+%26+Building+Real-World+Projects" alt="Typing SVG"/>
+  </a>
 </p>
 
-<h3 align="center">
-  Frontend Developer • React Learner • Problem Solverr
-</h3>
+<!-- ========================================================= -->
+<!--                    SOCIAL BADGES                          -->
+<!-- ========================================================= -->
 
 <p align="center">
-  💻 Building responsive UIs • 🚀 Learning Full Stack Dev • 🎯 Problem Solver
+
+  <a href="https://github.com/preetham1869">
+    <img src="https://img.shields.io/badge/GitHub-preetham1869-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
+  </a>
+
+  &nbsp;
+
+  <a href="mailto:preetham.v054@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27" alt="Email"/>
+  </a>
+
+  &nbsp;
+
+  <img src="https://komarev.com/ghpvc/?username=preetham1869&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
+
 </p>
 
-<p align="center">
-  A passionate Frontend Developer focused on building responsive, user-friendly web applications.
-</p>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=preetham1869&label=Profile%20views&color=0e75b6&style=flat)
+---
 
 ## 👨‍💻 About Me
-<ul>
-  <li>🔭 I’m currently working on <b>a web project</b></li>
-  <li>🌱 I’m currently learning <b>React & Redux</b></li>
-  <li>👯 I’m looking to collaborate with <b>MNCs</b></li>
-  <li>🤝 I’m looking for help with <b>Full Stack Development</b></li>
-  <li>📫 Reach me at <b>preetham.v054@gmail.com</b></li>
-  <li>⚡ Fun fact: <b>I love learning new things</b></li>
-</ul>
 
----
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="preetham054.me">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=github" alt="Portfolio"/>
-  </a>
-</p>
+```java
+class Developer {
 
----
+    String name = "Preetham Velamala";
 
-## 🌱 Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux" alt="Redux"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker"/>
-</p>
+    String education = "B.Tech Computer Science";
 
----
+    String location = "India 🇮🇳";
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-424%2B-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  <img src="https://img.shields.io/badge/CodeChef-3⭐-brightgreen?style=for-the-badge&logo=codechef" alt="CodeChef"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2⭐-darkgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG"/>
-</p>
+    String[] roles = {
+        "Full-Stack Developer",
+        "Software Engineer",
+        "Problem Solver"
+    };
 
----
+    String[] interests = {
+        "Web Development",
+        "Backend Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Structures & Algorithms"
+    };
 
-## 🤝 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/preetham-velamala/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Preetham_054">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&color=1DA1F2&style=for-the-badge" alt="X"/>
-  </a>
-  <a href="https://www.instagram.com/btw_itz__preetham/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E1306C&style=for-the-badge" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/preetham1869">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/preetham054/">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&style=for-the-badge" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/preetham_v054">
-    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=333333&style=for-the-badge" alt="CodeChef"/>
-  </a>
-</p>
-
-
-## 🛠 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,html,css,js,react,nodejs,mongodb,python,java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,aws" height="40"/>
-  <!-- ,graphql,go,rust,nestjs -->
-</p>
-
----
-
-⭐ Star my repositories if you like them!  
-
-📫 Reach out to me for collaboration, mentorship, or just a friendly chat!
+    String[] currentFocus = {
+        "Building scalable web applications",
+        "Improving Java & backend development",
+        "Learning modern full-stack technologies",
+        "Solving DSA problems",
+        "Building real-world software projects"
+    };
+}
