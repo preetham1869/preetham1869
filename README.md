@@ -132,7 +132,7 @@ I'm **Preetham Velamala**, a Computer Science undergraduate focused on **Full-St
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-424%2B%20Solved-F5F5F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080808" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-F5F5F5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080808" alt="LeetCode"/>
   &nbsp;
   <img src="https://img.shields.io/badge/CodeChef-3%20Star-C7CBD1?style=for-the-badge&logo=codechef&logoColor=white&labelColor=080808" alt="CodeChef"/>
   &nbsp;
